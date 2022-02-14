@@ -1,2 +1,0 @@
-# sandpile
-projet 
